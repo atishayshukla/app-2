@@ -1,0 +1,6 @@
+spec:
+  destination:
+    server: https://5d8fd9fe-ad95-4f3e-9610-305ca26d18d5.k8s.ondigitalocean.com
+  source:
+    repoURL: https://github.com/atishayshukla/app-2.git
+    targetRevision: HEAD
