@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  label:
+  labels:
     cluster: do-ams
   name: application
   finalizers:
