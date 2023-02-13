@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: root-app-2
+  name: application
   finalizers:
   - resources-finalizer.argocd.argoproj.io
 spec:
